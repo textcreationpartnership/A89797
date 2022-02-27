@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narration of the siege and taking of the town of Leicester the last of May, 1645. by the Kings forces: together with other proceedings of the Committee, and answers to some aspersions cast upon that Committee.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89797</idno>
+            <idno type="STC">Wing N162</idno>
+            <idno type="STC">Thomason E289_6</idno>
+            <idno type="EEBO-CITATION">99860925</idno>
+            <idno type="PROQUEST">99860925</idno>
+            <idno type="VID">158593</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158593)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 48:E289[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narration of the siege and taking of the town of Leicester the last of May, 1645. by the Kings forces: together with other proceedings of the Committee, and answers to some aspersions cast upon that Committee.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Miller, dwelling in Black-friers,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Leicester (England) --  History --  Siege, 1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158593:1" rendition="simple:additions"/>
+            <p>A NARRATION OF THE Siege and taking of <hi>THE TOWN OF</hi> LEICESTER The laſt of <hi>May,</hi> 1645. by the KINGS Forces: TOGETHER With other proceedings of the Committee, and anſwers to ſome Aſper<g ref="char:EOLhyphen"/>ſions caſt upon that Committee.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Miller,</hi> dwelling in Black-friers, 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158593:2"/>
+            <pb n="3" facs="tcp:158593:2"/>
+            <head>A Narration of the Siege and taking of the Town of <hi>Leiceſter,</hi> the laſt of <hi>May,</hi> 1645. by the Kings Forces, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Bout the 13<hi rend="sup">th</hi> of <hi>May</hi> laſt, the Committee at <hi>Leiceſter</hi> hear<g ref="char:EOLhyphen"/>ing that there was one <hi>Henry Purefoy</hi> at <hi>Belgrave,</hi> that had ſpoken ſome words, about a deſign upon the Town of <hi>Leiceſter,</hi> and that he was upon his journey to <hi>London,</hi> ſent out a party of horſe to fetch him in; and upon examination before the Committee, he confeſſed, that he had been a Lieutenant in the Kings Armie, and that he came from the Kings Quarters; The Intelli<g ref="char:EOLhyphen"/>gence which he gave us was, that being at <hi>Briſtol,</hi> and coming early in the morning in to the Governour, the Lord <hi>Hawleys</hi> chamber, the chamber being matted, and the Governour himſelf in bed, and the curtains drawn, he heard the ſaid Lord tell <hi>Oneale</hi> his bed-fellow, that he was upon a gal<g ref="char:EOLhyphen"/>lant deſign the laſt night for the taking of <hi>Leiceſter,</hi> which would be a bu<g ref="char:EOLhyphen"/>ſineſſe of very great conſequence, and that the Gentry and Townſmen in<g ref="char:EOLhyphen"/>vited them thither, or words to that effect, which we marvelled at, the moſt of the Gentry being either gone to <hi>London,</hi> or in the Kings Gari<g ref="char:EOLhyphen"/>ſons. The Committee examined him upon particulars, but he could not give any further information; yet upon this intelligence, the Committee deſired the Major to call a Hall, which accordingly he did, and there ma<g ref="char:EOLhyphen"/>king known the information, every one of the Committee, did firſt take a voluntary and ſacred Oath, to this effect, that they had not held any In<g ref="char:EOLhyphen"/>telligence with the Enemy, nor knew any that had, nor yet paid them a<g ref="char:EOLhyphen"/>ny contribution, nor aſſiſted with horſe, arms, or any ammunition, neither would they hold any correſpondence with them, nor contribute any thing, nor conceal any that did: which courſe the Committee did propound (not as enabled to tender an oath in the caſe, but to let them know how need<g ref="char:EOLhyphen"/>full it was, to aſſure their faithfulneſſe one to another in this time of com<g ref="char:EOLhyphen"/>mon danger, and clear themſelves of that imputation laid upon them:) which Oath upon the Majors requeſt (being conceived into writing) was then taken both by the 24. and 48. being the repreſentative body of the Corporation voluntarily, not one either ſcrupling or refuſing; we then al<g ref="char:EOLhyphen"/>ſo
+<pb n="4" facs="tcp:158593:3"/>Writ up Letters to the Committee of both Kingdoms of the intelli<g ref="char:EOLhyphen"/>gence, wherein (amongſt other requeſts made) one ſure was, that we might have an Order to preſſe 1000 men. Another humble requeſt was, to finiſh an aſſociation of divers Counties, which both the Committee of <hi>Nottingham</hi> had long ſollicited by Captain <hi>White,</hi> and we by M<hi rend="sup">r</hi> 
+               <hi>Stavely</hi> one of our Committee, and alſo for Cannon, which we obtained, but they came not before the Town was loſt. We alſo directed letters to Lieute<g ref="char:EOLhyphen"/>nant Generall <hi>Cromwell</hi> of our intelligence and condition, who writ us word, that he was called off by Command from proſecuting the Kings Army, to <hi>Oxford,</hi> but had left a conſiderable body of horſe, to wait upon the motions of the enemy, with whom he adviſed us, to hold good intel<g ref="char:EOLhyphen"/>ligence in any thing that might concern the publike: which accordingly we did, and writ to Colonell <hi>Vermuyden</hi> Commander of that party (the Kings Army then approaching) craving his aſſiſtance: we alſo writ to all the Committees round about us for aid, whom we never failed upon any call to contribute our aſſiſtance unto, <hi>(viz.) Northampton, Coventry, Nottingham, Derby,</hi> together with Colonell <hi>Roſſiter,</hi> hoping amongſt them to have procured 500 men at the leaſt, and we engaged to pay them, but could not prevail for a man. We then alſo began to cut off ſome ſuperflu<g ref="char:EOLhyphen"/>ous works at the horſe-fair-leys and the Fryers, wherin we ſaved the guard of 150 men, and ſet on labourers to amend the other works, where they were any waies defective, cauſing the Townſmen to ſhut up their ſhops, and calling in the Countrey, ſo that by the continuall pains of the Townſ<g ref="char:EOLhyphen"/>men, women and Country-men, they were very well made up in all pla<g ref="char:EOLhyphen"/>ces. We then debated the ſtrength of the Town, and cauſed the Major to give us in a liſt of all that were able to bear arms, from the age of 16. to 60. whereof the Liſt contained about 900 Townſmen, beſides thoſe that were liſted under our own Captains. We alſo ſent up our Commiſſary to bring down the Cannon, S<hi rend="sup">r</hi> 
+               <hi>Arthur Heſilrig</hi> having ſent us word, that three peeces were granted, and commanded him to buy us 200. new muſ<g ref="char:EOLhyphen"/>kets, and S<hi rend="sup">r</hi> 
+               <hi>Arthur Heſilrig</hi> ſent us 70 Carbines. We then diſperſt our Magazeen into truſty and ſure hands, in divers parts of the Town, where was about 100 barrels of powder at the leaſt, and match proportiona<g ref="char:EOLhyphen"/>ble, both which we made our ſelves, beſides that we furniſhed all our Gariſons and divers Towns in the Country, to defend themſelves, in their Churches. In the midſt of theſe proceedings, intelligence comes unto us, that the Kings Army marched from <hi>Stone</hi> in <hi>Stafford ſhire</hi> to <hi>Aſhby,</hi> upon <hi>Munday</hi> the 26<hi rend="sup">th</hi> of <hi>May,</hi> by which ſudden comming of the King, we were prevented of the aſſiſtance of our Forces at <hi>Cole-Overton,</hi> which
+<pb n="5" facs="tcp:158593:3"/>were about 350 Horſe and Foot, they being not able to bring off their Cannon could not come to us the Gariſon ſtanding within Cannon ſhot of <hi>Aſhby-de-lazouch,</hi> for they had ſhot from <hi>Cole-overton</hi> into <hi>Aſhby</hi> Town.</p>
+            <p>The enemy then ſummoned <hi>Cole-overton</hi> Garriſon, and Generall <hi>Ha<g ref="char:EOLhyphen"/>ſtings</hi> received a peremptory deniall to his demand of it, and our Horſe iſſuing out upon the reare of the Kings Army, took and ſlew 40 of their Horſe; then we drew off 100 of our Horſe from <hi>Kirby</hi> Garriſon, and left (contrary to ſome of our votes) the remaining ſtrength there, which were in number about 160 Foot and Horſe; our forces in the Town were 240 Horſe of our own, beſides Officers, above 480 Foot, beſide the Townſ<g ref="char:EOLhyphen"/>men, which were about 900 in all, about 400 whereof were liſted men, and we found not upon our entrance but about 400 Foot: We had alſo ſent out our Warrants into the Countrey, to call them in, who came but ſlowly, being very malignant in moſt parts of it; many came, that meant not to fight there was not of them above 150 that were willing to take up armes. Sir <hi>Robert Pye</hi> then being upon his paſſage towards Collonel <hi>Vermuyden,</hi> was by the ſcattering parties of the Kings Army fore-laid, that he could not paſſe; We hearing of him, intreated his company, and he came unto us, and freely offered himſelf to do ſervice, which the Committee took ſo well, that they ſent him 20 Peeces; we alſo appointed that he ſhould be an aſſiſtant to Colonell <hi>Grey,</hi> and Lieu. Col. <hi>Whitbroke,</hi> who was a valiant and well-experienced ſouldier, and worthily commended out of the Low countries by the Parliaments Agent M<hi rend="sup">r</hi> 
+               <hi>Strickland</hi> to the Earl of <hi>Pem<g ref="char:EOLhyphen"/>brook;</hi> Major <hi>Enis</hi> alſo with 200 Horſe quartering in the Countrey, we intreated into the Town, juſt upon the enemies approach, to many of whoſe men, we delivered Carbines and Muskets, they ſo deſiring.</p>
+            <p>Upon Tueſday the enemy quartered about <hi>Loughborrow</hi> and all the Towns about it, we not yet knowing, whether they intended for <hi>Leicester</hi> or <hi>Newark,</hi> for thoſe Towns where they quartered were juſt in the line of their march to either place: But upon Wedneſday they put us out of all doubt, by ſurrounding us with their Horſe, and firing three Wind-mills, and one Water-mill; Our Horſe went out and skirmiſhed with them, took divers priſoners and kild others; and our Cannon on all hands played roundly, wherever they could finde a mark within diſtance, &amp; did good ex<g ref="char:EOLhyphen"/>ecution in our ſight, &amp; this continued till night, the night being very light, about 10 or 11 a clock, we eaſily diſcovered the enemies Foot to draw down, and to begin to plant a battery againſt the <hi>Newark</hi> wall; we play<g ref="char:EOLhyphen"/>ed upon them all night abundantly from our works with our Musketteers, and Cannon ſhot from the ſouth Centry, in the morning care was taken
+<pb n="6" facs="tcp:158593:4"/>for the diſpoſing all our Horſe and Foot; we divided the line into two parts, it being neere three miles about, and made by the Right Honourable the Lord <hi>Grey</hi> about two years paſt, one part whereof was committed to the care of Sir <hi>Robert Pye,</hi> which was the <hi>Newark</hi> on that ſide, and the other ſide, where S<hi rend="sup">t</hi> 
+               <hi>Margarets</hi> Church ſtands and Belgrave gate, to Colo<g ref="char:EOLhyphen"/>nell <hi>Gray</hi> and Lieutenant Col. <hi>Whitbroke.</hi> We had alſo another old Soul<g ref="char:EOLhyphen"/>dier, that had been above 30 years in forrain ſervice, who deſired of us leave to go to <hi>London,</hi> about a week before we heard any thing of the Kings Army approaching, upon urgent occaſions of his own, and was up<g ref="char:EOLhyphen"/>on his return down as far as <hi>Northampton,</hi> but could not come thorow.</p>
+            <p>On Thurſday at noon a Summons was ſent by Prince <hi>Rupert</hi> to the Souldiary, to the Townſmen and to the Countrymen, wherein Quarter was offered to the whole Town, and liberty to Major <hi>Enis</hi> to march away with his whole Treops; whereupon the Committee called together all the Commanders, and read the Summons unto them, and one of the Com<g ref="char:EOLhyphen"/>mittee ſpake theſe words: <hi>We are a part of thoſe who have underta<g ref="char:EOLhyphen"/>ken the Parliaments Cauſe, a Cauſe ſo high</hi> (ſaid he) <hi>as I deſire to die in no other:</hi> And this was ſeconded by Capt. <hi>Hacker,</hi> Capt. <hi>Babington</hi> and the reſt of the Officers; only Sir <hi>Robert Pye</hi> and Major <hi>Enis</hi> ſeem'd to queſtion, whether our numbers were ſufficient to make reſiſtance to ſuch an Army, but ſoon deſiſted. And in regard the Summons was directed to the Townſmen and others, we ſent to the Major, who came, and the Letter was read to him; and he was deſired to call a Hall, and went pre<g ref="char:EOLhyphen"/>ſently about it; in the mean time it was reſolved upon debate to take the next morning to give an anſwer, in caſe it could be obtained, and the reaſons were; Firſt, That all to whom the Summons was directed, might unanimouſly give their reſolution, the better to unite and ingage them: Another reaſon, in regard that the <hi>Newarke</hi> was the place they purpos'd to enter at, and we had begun a ſubſtantiall breſtwork within it, and it was in a good forwardneſſe, but not finiſhed; the women of the Town wrought at it, although the Cannon bullets and ſome ſplinters of ſtones fell amongſt them and hurt ſome of them, yet to their exceeding commendation, they went on and made it up, to the enemies admiration. The next thing that fell into conſideration was, to whom to write, whether to the King be<g ref="char:EOLhyphen"/>ing in the Summons intimated to be preſent, or to Prince <hi>Rupert:</hi> ſome were of opinion, that Prince <hi>Rupert</hi> being a forrainer that had done ſo much miſchief, no notice ſhould be taken of him, but the anſwer directed to the King himſelf: others ſeem'd to refute that, in regard the King had made him Generall, which opinion prevailed, and accordingly it was
+<pb n="7" facs="tcp:158593:4"/>directed: Upon the Trumpeters arriving at the Kings Army, a Drum was preſently diſpatch'd to demand a reſolution of the former Summons, which muſt be returned within a quarter of an hour; which haſty proceeding with us, was occaſioned by ſome ſhortneſſe in Stile or Title given to Prince <hi>Ru<g ref="char:EOLhyphen"/>pert,</hi> as was pretended; the ſtile to him was, <hi>Sir,</hi> and the Title, <hi>To the Commander in chief of his Majesties Army;</hi> But now the Major and Corporation comming, the Summons was again read in the audience of all, the Major referred himſelf to the major votes; one of the Committee moving them to ſtand to their own defence, two only of the Townſmen gave in their votes, and both for fighting it out; and before any other could expreſſe themſelves, the Kings Cannon from the battry played, but ſtrook no terrour into us; then all debates ceaſed, and all were comman<g ref="char:EOLhyphen"/>ded to repair to the works, which was done with much courage and reſo<g ref="char:EOLhyphen"/>lution, the Committee diſpoſing themſelves to ſeverall parts of the Town, to ſupply what was wanting in Ammunition or otherwiſe, diſtributing Money unto the ſouldiers that ſtood at the line, for their better incourage<g ref="char:EOLhyphen"/>ment; and ſome ſate at the Town hall to attend what might be further ſaid or done for the advance of the ſervice, if any ſhould make addreſſes to them; and now we plied each other both with Cannon and Musket ſhot, as faſt as we could charge and diſcharge; our Cannoniers with one ſhot brake the Carriage of one of the battering Peeces, and ſlew the Can<g ref="char:EOLhyphen"/>nonier, and thus we continued all the day long, and all the night, at which time the enemy prepar'd to ſtorme us at 6, or 7, places, and to that pur<g ref="char:EOLhyphen"/>poſe had cut down many buſhes and faggeted them, wherewith he meant to fill up our ditches: at the <hi>Newarke</hi> breach was the fierceſt aſſault, the enemy there comming to puſh of Pike, four times they attempted, and were as often repulſt, our men taking two of their Colors from them, and pluck'd many of their Pikes out of their hands, and Captain <hi>Hacker,</hi> and Cap. <hi>Babington</hi> with their horſe, and the Cannon from a corner of the wall made a miſerable ſlaughter of them: amongſt the reſt Colonell S<hi rend="sup">t</hi> 
+               <hi>George,</hi> in a bravery, came up to out Cannon, and was by it ſhotter'd into ſmall parcels, and with him many more, for after the manner of the Turks the horſe forc'd on the foot to fight, they being beaten upon by our Muſ<g ref="char:EOLhyphen"/>ketteers, great ſlaughter was made of them; on the other ſide of the town Colonell S<hi rend="sup">r</hi> 
+               <hi>Henry Bard,</hi> at Belgrave gate, endeavouring to ſcale, was beaten down with the butt-end of a Muſquet, the bruiſe whereof was ſeene by ſome of us, and his Major likewiſe ſtricken down by his ſide, ſixteen of his men ſlain upon the place, and 60 more mortally wounded out of 250. as himſelf reported: but ſetting upon it again upon a ſecond
+<pb n="8" facs="tcp:158593:5"/>attempt with hand-granadoes thrown in amongſt our men, entred within the works; <hi>Bard</hi> then brake down the draw-bridge, and made way for the horſe to enter; ſo again at Galtry-gate the enemy threw in hand-granadoes abundantly, terribly burnt our men, ſeconding them with ſquadrons of Muſquetteers, our men were killed and beaten off, and there they alſo entred, the horſe being come in, they rid with a full carreer in a body of about 600 up the ſtreets, clearing them, as they went, and ſo to the Newark, and coming upon the backs of our Forces there, they fighting gallantly and defending the breach, there was no way left but to ſubmit upon quarter, which they did. About three of the clock upon Saturday morning was the town entred and taken, the enemy ſlew divers at their firſt entrance, and Colonell <hi>Gray</hi> was ſore wounded, and led off the place: a full confutation of ſome ſlanders laid upon him, of whoſe valour we had former experience; they dealt alſo extreme cruelly with the Town, plun<g ref="char:EOLhyphen"/>dring all they had, and putting many to great ranſoms, when they had ta<g ref="char:EOLhyphen"/>ken away all their monies &amp; goods, and compelling many to march along with the, in caſe they were not able to give the their demand; inſomuch that it is to be feared, unleſſe ſome courſe can be taken for their reliefe, <hi>Leiceſter</hi> cannot provide victuall for themſelves, much leſſe to accommo<g ref="char:EOLhyphen"/>date a Gariſon, and divers in the Country are in the ſame eſtate, for ſome that we know of 40. 50. 80. and 100. l. a year revenue are turn'd into rags, plundered houſe and field, and almoſt all the well affected thruſt out of the Town, whole families, wives and children, without any compaſſion. And now having declared the ſad ſtorie of the town, we deſire to make ſome reticall of our former proceedings. In <hi>March</hi> we ſigned an Order under the hands of all the Committee, as well townſmen as others, for the forti<g ref="char:EOLhyphen"/>fying of the Newark, and began to fortifie it very ſtrongly, and reſolved to goe thorow with it with all ſpeed: but Colonell <hi>Booth</hi> comming to <hi>Leiceſter</hi> about the 12. of <hi>April</hi> laſt, in his paſſage to <hi>Cheſhire,</hi> writ a Letter to the Right Honourable the Lord <hi>Gray</hi> at <hi>London,</hi> moſt earneſt<g ref="char:EOLhyphen"/>ly diſſwading the fortifying of that place: which Letter the Lord <hi>Gray</hi> carried to the Committee of both Kingdomes, a true copie whereof is hereunto annexed: whereupon the Committee of both Kingdomes writ a Letter to the Committee at <hi>Leiceſter,</hi> and a true copie of our an<g ref="char:EOLhyphen"/>ſwer to that Letter is alſo herew<hi rend="sup">th</hi> printed, but now 'tis viſible to all, that what we would have done, the enemy now doth, and S<hi rend="sup">t</hi> 
+               <hi>Henry Bard</hi> told ſome of us, that he heard we began to fortifie the Newark, which if we had finiſhed, the Kings Army would never have come to <hi>Leiceſter.</hi> Many aſperſions are laid upon the Committee of <hi>Leiceſter,</hi> both by the
+<pb n="9" facs="tcp:158593:5"/>Earle of <hi>Stamford</hi> at the Houſe of Commons door and other places, and alſo by one <hi>Lilly</hi> in a printed book much to our diſparagement; we deſire that any one of them may be made good; <hi>Lilly</hi> chargeth us with taxing that County with more than it is worth, wherein this brief anſwer will clear the truth, our Ordinance grants power only for raiſing 600. l. a week, our warrants iſſued out but for 500. l. weekly, and of that one week with another, we beleeve there is not come in above 300. l. a week, one whole hundred of the county being almoſt totally cut off from us by the enemy. Another aſperſion is, that we made our ſelves rich with the counties monies, but we had aſſigned the County to our Gariſons, and all the ſix hundreds were thus diſpoſed of, two to <hi>Cole-overton</hi> and <hi>Bagworth,</hi> two to the Gariſon at <hi>Kerby,</hi> and two to <hi>Leicester,</hi> and the monies were all re<g ref="char:EOLhyphen"/>ceived by Collectours and Treaſurers appointed for every Gariſon, and not by any of the Committee. We have had four Gariſons wherein we have quartered 420. horſe, and above 600. foot, which were in conſtant pay, we bought all our armes, except thoſe we found in the ſouldiers hands at our entrance, and all our ammunition alſo, and many horſes: we have never been chargeable to the State for any thing, we have not had our power a twelve-moneth, we found the County infeſted with four Gariſons, <hi>Aſhby, Belvoir, Newark</hi> and <hi>Weverton:</hi> againſt <hi>Aſhby</hi> we plan<g ref="char:EOLhyphen"/>ted a Gariſon within Cannon ſhot, and at all times beat the enemy into his works: we had above 100 priſoners of theirs when the Town was loſt, and they not one of ours, but Captain <hi>Pratt;</hi> againſt <hi>Belvoir</hi> and the reſt we planted another at <hi>Kerby,</hi> to preſerve that ſide of the Country, and to recover the loſt hundred; which lay towards <hi>Newarke, Belvoir,</hi> and <hi>Weverton;</hi> another at <hi>Bagworth</hi> to be a horſe-quarter, and to ſcout abroad into the Countrey; we have ſerved the Parliament in the Com<g ref="char:EOLhyphen"/>mittee from the firſt Ordinance, and we who were not officers never re<g ref="char:EOLhyphen"/>ceived a peny of money, nor a meals meat at the States charge, ſome of us however inconſiderable to others have contributed large ſummes up<g ref="char:EOLhyphen"/>on the Propoſitions, and have ſpent hundreds of pounds in the Parlia<g ref="char:EOLhyphen"/>ments ſervice, our Eſtates are plundered, our perſons impriſoned, and we rewarded with being called Raſcals, Pedlers, baſe fellowes, at the door of the houſe of Commons, and by Maſter <hi>Lilly,</hi> betrayers of the town, and knaves in print, we know no reaſon: We appeale for juſtice, if traitours or knaves, we beg no favour; and if we are Raſcals and baſe followes, we are unfit for the Parliaments ſervice: it was the cauſe of God and the Kingdomes that made us undertake the work at the beginning, and when others of greater eſtates deſerted it, ſome of us ſtrongly impor<g ref="char:EOLhyphen"/>tuning
+<pb n="10" facs="tcp:158593:6"/>ſome of the beſt of our county, who have expreſſed themſelves for the Parliament, to aſſiſt and appeare at the very beginning, when the Gentry of the aſſociation were to meet at <hi>Owndell,</hi> and ſpake to ſome Par<g ref="char:EOLhyphen"/>liament men who were there met, to move the Houſe to order thoſe at <hi>London</hi> to come down and appeare in the Parliaments cauſe, and before our laſt Ordinance again with much importunity ſollicited ſome of the moſt eminent in Town to goe down and ſit at the Committee, which if they would doe, ſome of us would reſigne up and deſiſt, in re<g ref="char:EOLhyphen"/>gard we found a diſlike in ſome againſt us, but could not prevail. And if Sir <hi>Edw. Hartopp</hi> Baronett, Sir <hi>Tho. Hartopp,</hi> Sir <hi>Roger Smith, John</hi> S<hi rend="sup">t</hi> 
+               <hi>John,</hi> and <hi>Tho. Brudenell,</hi> Eſquires, that have been in the firſt Ordinance and are in this, were but commanded down to ſit as Committees, they would give more ſatisfaction to the Countrey, and do the Parliament better ſervice then thoſe that are of leſſer eſtates and eſteem can poſſibly do; the troubles we have found in managing the Parliaments Cauſe, and the abuſes put upon us for being faithfull in the ſervice, have made the burden inſupportable,; all the Committee at one time (before we had the late Ordinance) went away one after another in diſpleaſure, except one Gentleman and a Captain, whoſe imployment abroad upon parties put him off from that ſervice, and the Major of the Town, being only for the Town, inforced to ſit upon the Countries affairs, untill an Or<g ref="char:EOLhyphen"/>der was obtained to inable him to act for the Countrey as well as for the Town, which the Knights of the Shire ſpeedily ſupplied by an Order for that purpoſe, otherwiſe the Gariſon had broken up, and the whole Country fallen under the power of the enemy; and this was continued for a quarter of a year. And whereas M<hi rend="sup">r</hi> 
+               <hi>Lilly</hi> ſeems to charge ſchiſine and faction up<g ref="char:EOLhyphen"/>on the Committee and Townſmen, there was no Town in <hi>England</hi> of that bigneſſe where there was leſſe faction or diviſion in matters of Rell<g ref="char:EOLhyphen"/>gion, nor the worſhip of God more duly and frequently enjoyed in the power of it, to the great comfort of many of Gods people both Miniſters and others that fled in thither for refuge; and we are confident that the godly Miniſters and people both in Town and Country, will give us a good report, and this is ſome ſupport againſt all <hi>Lillyes</hi> ſlanders and other abuſes; if we gain no other ſatisfaction; and ſome of us have found more comfort in our impriſonment under the hands of cruell enemies then in <hi>Weſtminſter</hi> Hall, and at the Parliament door, being extremely diſgraced for doing faithfull ſervice to the Parliament. We know no fault in this Committee for loſing <hi>Leiceſter,</hi> nothing omitted in our power to execute, we delivered it not upon baſe tearms, but fought it out, to the hazard of all
+<pb n="11" facs="tcp:158593:6"/>our lives, and loſſe of our eſtates, we know no other reaſon, onely God pleaſed to humble us, Town and Countrey, that the whole Kingdome might be exalted, bleſſed for ever be his Name: But this advantage we have by it, that falſe-hearted men are now diſcovered. We conclude with this, we deſire all or any of thoſe that have given any evill reports of us, to prove but one particular, or in the mean time to be ſilent.</p>
+            <p>Col. <hi>Gray</hi> was by the L. <hi>Gray</hi> made Governor, but we never put the pow<g ref="char:EOLhyphen"/>er out of our own hands. There was buried in <hi>Leiceſter</hi> 709. as hath been collected by the burials there; beſides thoſe that died of hurts ſince: there was not 109 of ours ſlain. Theſe were killed at their poſts, Lieutenant Co<g ref="char:EOLhyphen"/>lonell <hi>Whitbrooke,</hi> Captain <hi>Farmer,</hi> a Low-country Souldier, Captain <hi>Hurſt,</hi> all Captains of Foot, and Colonell <hi>Grey</hi> at his line mortally woun<g ref="char:EOLhyphen"/>ded in ſeverall places and led off the place, beſides many other Officers and ſouldiers; and one M<hi rend="sup">r</hi> 
+               <hi>Browne</hi> an honeſt and painfull Miniſter ſlain, toge<g ref="char:EOLhyphen"/>ther with M<hi rend="sup">r</hi> 
+               <hi>Palmer</hi> of the ſame profeſſion, mortally wounded, if not ſlain, but few after their entrance.</p>
+         </div>
+         <div type="letter">
+            <head>A Copy of a Letter ſent from <hi>Leiceſter</hi> to my Lord <hi>Gray.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>BEing arrived at this place, which by reaſon of your publike and private in<g ref="char:EOLhyphen"/>terest in it, laies claim to your utmoſt endeavours for the preſervation of it; I ſhall make bold to preſent your Lordſhip with the weak condition 'tis in, moſt obvious to the unobſerving eye, by all mens account there are not above <hi>200.</hi> Souldiers in the Town, and thoſe as peremptory againſt Diſcipline, as their Go<g ref="char:EOLhyphen"/>vernours are ignorant of it. I am most confident, nay durſt hazard my life and fortune upon it, that <hi>500.</hi> reſolute well manag'd Souldiers at any time, night or day, would make themſelves maſter of this Town, which if loſt will take a<g ref="char:EOLhyphen"/>way all commerce from all the North-weſt of <hi>England:</hi> and I can aſſure you, 'tis Gods providence alone in keeping it from the enemies knowledge, and ſup<g ref="char:EOLhyphen"/>preſſing their courage, that is this Towns defence; but when we neglect to ſerve God in his providence by the adhibition of ſecond means, 'tis juſt with God to leave us to our own ſtrength, which is nothing but weakneſs. The grand ma<g ref="char:EOLhyphen"/>sters moſt ſenſible of danger, and carefull of their own ſecurity, have all of them, got houſes in a place of this Town called the <hi>Newark,</hi> where they are fortifying
+<pb n="12" facs="tcp:158593:7"/>themſelves, as strong as may be, which will prove, as I fear of moſt dangerous conſequence, for I perceive the Townſmen much diſcontented, conceiving them<g ref="char:EOLhyphen"/>ſelves deſtined by the Committee for the enemies mercy; I aſſure you, my Lord, I eſpie diſcontent diſperſing it ſelf very fast abroad in this Town, and if your Lordſhips care prevent not, I expect very ſhortly to hear ill news from this place. Pardon my boldneſſe, excuſe my haſte, and accept of my profeſſion of being,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhips moſt humble Servant <hi>G. Booth.</hi>
+               </signed>
+               <dateline>
+                  <hi>Leiceſter,</hi> 
+                  <date>
+                     <hi>Apr. 12. 1645.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copy of a Letter from the Committee of <hi>Leiceſter</hi> to the Committee of both Kingdomes.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>VVE received your Lordſhips letter of the 25. of <hi>April</hi> laſt, about our Fortifications, wherein we ſhall ſubmit to your Lordſhips directions. We never had the leaſt thought to deſert the Town, or any part of it, but have fortified and ſtill proceed to fortifie all our out-works, and have of late much amended them, and never had further thoughts in forti<g ref="char:EOLhyphen"/>fying the <hi>Newark,</hi> then for a reſerve in time of abſolute neceſſity, and a more ſafety for our Magazeen, it being a place eaſily made a very ſtrong peece. Our greateſt want is of Ordnance and Arms; and therefore we hum<g ref="char:EOLhyphen"/>bly deſire your Lordſhips they may be ſpeedily ſent to us by this bearer Com<g ref="char:EOLhyphen"/>miſſary <hi>Blunt,</hi> and that he may have your Lordſhips warrants to charge Carts, Wagons and Horſes for bringing the ſame hither, giving reaſonable pay for it; we take leave, and are,</p>
+            <closer>
+               <salute>My Lords,</salute>
+               <signed>Your Lordſhips moſt humble Servants.
+<list>
+                     <item>
+                        <hi>Thomas Heſilrig.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Browne.</hi>
+                     </item>
+                     <item>
+                        <hi>Francis Smalley</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Stanley.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Cradock.</hi>
+                     </item>
+                     <item>
+                        <hi>Val. Goodman.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Swynſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Leiceſter,</hi> 
+                  <date>
+                     <hi>May</hi> 1. 1645.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
